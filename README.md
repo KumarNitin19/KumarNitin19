@@ -6,23 +6,32 @@ Welcome to my GitHub profile! I’m passionate about solving complex problems an
 ---
 
 ## 🌟 **About Me**  
-- **Frontend Wizard** 🖥️: Skilled in React JS, Next JS, Javascript, TypeScript, creating user-focused, high-performance applications.   
+- **Frontend Wizard** 🖥️: Proficient in **React JS**, **Next.js**, **JavaScript**, and **TypeScript**, specializing in building dynamic, user-centric, and high-performance web applications.   
 - **Open Source** 🌍: Proud contributor to projects like [**MUI**](https://github.com/mui/material-ui) and [**Pebblo**](https://github.com/daxa-ai/pebblo).  
 - **Optimization** ⚡: Adept at performance optimization, modular architectures, and modern design patterns.  
 
 ## 🔥 **Open Source Contributions**  
-- **[MUI (Joy-UI)](https://github.com/mui/material-ui)**: Fixed an [issue](https://github.com/mui/material-ui/issues/39530) in the accordion component and got the PR merged into the master branch of the main repo.[#39530](https://github.com/mui/material-ui/issues/39530)  
-- **[Pebblo](https://github.com/daxa-ai/pebblo)**: Contributed to the Pebblo open-source project by implementing a local server solution, allowing users to interact and view data summaries in a web browser. This alternative approach significantly improved the accessibility and user experience of the project’s output (as compared to generating pdfs as output).  
+- **[MUI (Joy-UI)](https://github.com/mui/material-ui)**: Fixed an [issue](https://github.com/mui/material-ui/issues/39530) in the accordion component. The PR was successfully merged into the **main branch** of this industry-leading library.[#39530](https://github.com/mui/material-ui/issues/39530)  
+- **[Pebblo](https://github.com/daxa-ai/pebblo)**: Developed a **local server solution** that enhanced usability by enabling users to visualize data summaries directly in a browser instead of static PDF exports. This significantly improved **accessibility** and the **user experience**.   
 
 ---
 
-## 🛠️ **Skills & Tools**  
-- **Languages**: Html5, Css3, SCSS, SASS, JavaScript, TypeScript, C++ 
-- **Frameworks**: React JS, Next JS, Angular JS, Node JS, Express JS 
-- **State Management**: Redux, Redux-toolkit, Zustand
-- **UI/UX**: MUI, Ant-Design, TailwindCSS, Bootstrap
-- **UI Documentation**: Storybook
-- **Visualization**: D3.js   
+## 🛠️ **Technical Skills**  
+### **Frontend Development**  
+- **Languages**: HTML5, CSS3, SCSS, SASS, JavaScript (ES6+), TypeScript  
+- **Frameworks & Libraries**: React JS, Next.js, Angular JS, Node.js, Express.js  
+- **State Management**: Redux, Redux Toolkit, Zustand  
+- **UI Frameworks**: MUI, Ant Design, Tailwind CSS, Bootstrap  
+
+### **Tools & Workflows**  
+- **UI Documentation**: Storybook  
+- **Data Visualization**: D3.js  
+- **Testing**: Jest  
+- **Version Control**: Git, GitHub  
+
+### **Other Skills**  
+- **Performance Optimization**: Expertise in identifying bottlenecks and improving load times using advanced techniques like lazy loading, memoization, and code splitting.  
+- **Modular Architectures**: Proficient in building scalable component libraries and reusable systems to streamline development workflows.  
 
 ---
 
