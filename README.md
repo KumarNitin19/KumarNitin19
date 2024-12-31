@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm [Your Name]!  
+# 👋 Hi, I'm Nitin Kumar!  
 ### 🚀 Software Engineer | Frontend Enthusiast | Open Source Contributor  
 
 Welcome to my GitHub profile! I’m passionate about crafting scalable web applications, building innovative AI platforms, and contributing to open-source projects. Here’s a glimpse of what I do:  
@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I’m passionate about crafting scalable web appli
 ---
 
 ## 🌟 **About Me**  
-- **Frontend Wizard** 🖥️: Skilled in React, Next.js, TypeScript, and D3.js, creating user-focused, high-performance applications.   
-- **Open Source Advocate** 🌍: Proud contributor to projects like **MUI** and **Pebblo**, solving challenges and enhancing accessibility.  
-- **Optimization Guru** ⚡: Adept at performance optimization, modular architectures, and modern design patterns.  
+- **Frontend Wizard** 🖥️: Skilled in React JS, Next JS, Javascript, TypeScript, creating user-focused, high-performance applications.   
+- **Open Source** 🌍: Proud contributor to projects like **MUI** and **Pebblo**.  
+- **Optimization** ⚡: Adept at performance optimization, modular architectures, and modern design patterns.  
 
 ## 🔥 **Open Source Contributions**  
 - **[MUI (Joy-UI)](https://github.com/mui/material-ui)**: Fixed an accordion component issue that’s now live in the main repo.  
@@ -19,16 +19,15 @@ Welcome to my GitHub profile! I’m passionate about crafting scalable web appli
 ---
 
 ## 🛠️ **Skills & Tools**  
-**Languages**: JavaScript, TypeScript  
-**Frameworks**: React, Next.js, Redux-toolkit  
-**UI/UX**: MUI, TailwindCSS  
-**Visualization**: D3.js  
-**Authentication**: Firebase, Middleware-driven solutions  
+**Languages**: Html5, Css3, SCSS, SASS, JavaScript, TypeScript, C++ 
+**Frameworks**: React JS, Next JS, Angular JS, Node JS, Express JS 
+**State Management**: Redux, Redux-toolkit, Zustand
+**UI/UX**: MUI, Ant-Design, TailwindCSS
+**Visualization**: D3.js   
 
 ---
 
 ## 💬 Let’s Connect!  
 I’m always open to collaborating on impactful projects or discussing exciting opportunities.  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Portfolio**: [Your Portfolio Website](#)  
-- **Email**: [Your Email](mailto:youremail@example.com)  
+- **LinkedIn**: [https://www.linkedin.com/in/nitin-kumar-343b741ab/)(#)   
+- **Email**: (mailto:nitinkumardeshmukh19@gmail.com)  
