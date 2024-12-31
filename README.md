@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nitin Kumar!  
 ### 🚀 Software Engineer | Frontend Enthusiast | Open Source Contributor  
 
-Welcome to my GitHub profile! I’m passionate about crafting scalable web applications, building innovative AI platforms, and contributing to open-source projects. Here’s a glimpse of what I do:  
+Welcome to my GitHub profile! I’m passionate about solving complex problems and driving user-focused innovation.
 
 ---
 
