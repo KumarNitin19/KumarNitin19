@@ -49,7 +49,7 @@
   <td><b>Frameworks & Libraries</b></td>
   <td>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" style="filter: grayscale(100%);" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" width="40" height="40" style="filter: grayscale(100%);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40" style="filter: grayscale(100%);" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="40" height="40" style="filter: grayscale(100%);" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" style="filter: grayscale(100%);" />
   </td>
@@ -58,15 +58,15 @@
   <td><b>State Management</b></td>
   <td>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="40" height="40" style="filter: grayscale(100%);" /> 
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-bear-based-state-management-system-for-react-and-react-native-logo-color-tal-revivo.png" title="Zustand" width="40" height="40" style="filter: grayscale(100%);" />
+    <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" title="Zustand" width="40" height="40" style="filter: grayscale(100%);" />
   </td>
 </tr>
 <tr>
   <td><b>UI Frameworks</b></td>
   <td>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material-UI" width="40" height="40" style="filter: grayscale(100%);" />
-    <img src="https://img.icons8.com/ios-filled/50/87CEEB/ant-design.png" title="Ant Design" width="40" height="40" style="filter: grayscale(100%);" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" width="40" height="40" style="filter: grayscale(100%);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" title="Ant Design" width="40" height="40" style="filter: grayscale(100%);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40" height="40" style="filter: grayscale(100%);" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40" style="filter: grayscale(100%);" />
   </td>
 </tr>
@@ -84,6 +84,7 @@
 
 ## Find me around the web 🌍!  
 I’m always open to collaborating on impactful projects or discussing exciting opportunities.  
-- <a href="https://www.linkedin.com/in/nitin-kumar-343b741ab/" style="color: #87CEEB;"><img src="https://img.icons8.com/ios-filled/50/87CEEB/linkedin.png" title="LinkedIn" width="30" height="30" /></a> [Nitin Kumar](https://www.linkedin.com/in/nitin-kumar-343b741ab/)  
-- <a href="https://www.instagram.com/" style="color: #FFB6C1;"><img src="https://img.icons8.com/ios-filled/50/FFB6C1/instagram-new.png" title="Instagram" width="30" height="30" /></a> [Instagram](https://www.instagram.com/)  
-- **Email**: [nitinkumardeshmukh19@gmail.com](mailto:nitinkumardeshmukh19@gmail.com)
+- <a href="https://www.linkedin.com/in/nitin-kumar-343b741ab/" style="color: #87CEEB;"><img src="https://img.icons8.com/fluency/48/linkedin.png" title="LinkedIn" width="30" height="30" /></a> [Nitin Kumar](https://www.linkedin.com/in/nitin-kumar-343b741ab/)  
+- <a href="https://www.instagram.com/" style="color: #FFB6C1;"><img src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram" width="30" height="30" /></a> [Instagram](https://www.instagram.com/)  
+- <a><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" title="Gmail" width="30" height="30" /></a>
+ [nitinkumardeshmukh19@gmail.com](mailto:nitinkumardeshmukh19@gmail.com)
