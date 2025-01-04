@@ -82,7 +82,7 @@
 
 ---
 
-## 💬 Let’s Connect!  
+## Find me around the web 🌍!  
 I’m always open to collaborating on impactful projects or discussing exciting opportunities.  
 - <a href="https://www.linkedin.com/in/nitin-kumar-343b741ab/" style="color: #87CEEB;"><img src="https://img.icons8.com/ios-filled/50/87CEEB/linkedin.png" title="LinkedIn" width="30" height="30" /></a> [Nitin Kumar](https://www.linkedin.com/in/nitin-kumar-343b741ab/)  
 - <a href="https://www.instagram.com/" style="color: #FFB6C1;"><img src="https://img.icons8.com/ios-filled/50/FFB6C1/instagram-new.png" title="Instagram" width="30" height="30" /></a> [Instagram](https://www.instagram.com/)  
