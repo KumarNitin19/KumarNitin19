@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Code&weight=500&size=24&duration=4000&pause=500&color=6e6e73&center=true&vCenter=true&width=435&lines=Software+Engineer;Frontend+Engineer;" alt="Typing SVG" />
 </div>
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/KumarNitin19/count.svg" alt="Visitor's Count" />
+</div>
+
+
 ---
 
 ## 🌟 **About Me**  
