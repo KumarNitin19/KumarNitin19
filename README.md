@@ -97,19 +97,11 @@
 <p align="left">
    <img src="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Find+me+around+the+web+🌍!" alt="Find me around the web 🌍!" /> 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/nitin-kumar-343b741ab/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" title="LinkedIn" width="30" height="30" />
-  </a>&nbsp;&nbsp;
-
+ <a href="https://www.linkedin.com/in/nitin-kumar-343b741ab/" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" title="LinkedIn" width="30" height="30" /></a>&nbsp;
   <!-- Gmail -->
-  <a href="mailto:nitinkumardeshmukh19@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" title="Gmail" width="30" height="30" />
-  </a>&nbsp;&nbsp;
-
+  <a href="mailto:nitinkumardeshmukh19@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" title="Gmail" width="30" height="30" /></a>&nbsp;
   <!-- Instagram -->
-  <a href="https://www.instagram.com/_nitin_deshmukh" target="_blank">
-   <img src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram" width="30" height="30" />
-  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_nitin_deshmukh" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram" width="30" height="30" /></a>
 </p>
 
 --- 
