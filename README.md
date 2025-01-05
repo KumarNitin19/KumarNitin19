@@ -1,6 +1,6 @@
 <div align="left">
     <img src="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&weight=500&duration=1&repeat=false&width=96&lines=Hello,+I'm" alt="Hello, I'm" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=4000&pause=500&color=1571e3&width=900&lines=Nitin+Kumar;Software+Engineer" alt="Nitin Kumar" /> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=4000&pause=500&color=1571e3&width=600&lines=Nitin+Kumar;Software+Engineer" alt="Nitin Kumar" /> 
     <img src="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&size=14&weight=500&duration=1&vCenter=true&repeat=false&width=435&lines=Solving+one+bug+at+a+time!+😁" alt="Solving one bug at a time!" />
 </div>
 
