@@ -8,7 +8,7 @@
   
  
 <div align="left">
- <img src="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&weight=500&duration=1&repeat=false&width=435&lines=Things+I+work+with+-" alt="Things I work with" />
+ <img src="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Things+I+work+with+-" alt="Things I work with" />
 <p align="center">
   <!-- HTML -->
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
