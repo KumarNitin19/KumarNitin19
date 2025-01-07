@@ -8,7 +8,7 @@
   
  
 <div align="left">
- <img src="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Things+I+work+with+-" alt="Things I work with" />
+ <img src="https://readme-typing-svg.herokuapp.com?&color=fff&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Things+I+work+with+-" alt="Things I work with" />
 <p align="center">
   <!-- HTML -->
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -70,7 +70,7 @@
 ---
 
 <p align="left">
-   <img src="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Find+me+around+the+web+🌍!" alt="Find me around the web 🌍!" /> 
+   <img src="https://readme-typing-svg.herokuapp.com?&color=fff&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Find+me+around+the+web+🌍!" alt="Find me around the web 🌍!" /> 
   <!-- LinkedIn -->
  <a href="https://www.linkedin.com/in/nitin-kumar-343b741ab/" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" title="LinkedIn" width="30" height="30" /></a>&nbsp;
   <!-- Gmail -->
@@ -82,6 +82,6 @@
 --- 
 
 <div align="left"> 
-  <img src="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Visitor+Count" alt="Visitor Count" />
+  <img src="https://readme-typing-svg.herokuapp.com?&color=fff&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Visitor+Count" alt="Visitor Count" />
   <img src="https://profile-counter.glitch.me/KumarNitin19/count.svg" alt="Visitor's Count" />
 </div>
