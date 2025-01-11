@@ -1,14 +1,28 @@
 <div align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&weight=500&duration=1&repeat=false&width=96&lines=Hello,+I'm" alt="Hello, I'm" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=4000&pause=500&color=1571e3&width=600&lines=Nitin+Kumar;Software+Engineer" alt="Nitin Kumar" /> 
-    <img src="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&size=14&weight=500&duration=1&vCenter=true&repeat=false&width=435&lines=Solving+one+bug+at+a+time!+😁" alt="Solving one bug at a time!" />
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&weight=500&duration=1&repeat=false&width=96&lines=Hello+I'm" alt="Hello, I'm">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?&color=000&font=Poppins&weight=500&duration=1&repeat=false&width=96&lines=Hello+I'm" alt="Hello, I'm">
+      <img alt="Theme-aware text" src="https://via.placeholder.com/400x100/FFFFFF/000000?text=Default+Theme+Text">
+    </picture> 
+     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=4000&pause=500&color=1571e3&width=600&lines=Nitin+Kumar;Software+Engineer" alt="Nitin Kumar" /> 
+     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&size=14&weight=500&duration=1&vCenter=true&repeat=false&width=435&lines=Solving+one+bug+at+a+time!+😁" alt="Solving one bug at a time!">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?&color=000&font=Poppins&size=14&weight=500&duration=1&vCenter=true&repeat=false&width=435&lines=Solving+one+bug+at+a+time!+😁" alt="Solving one bug at a time!">
+      <img alt="Theme-aware text" src="https://via.placeholder.com/400x100/FFFFFF/000000?text=Default+Theme+Text">
+    </picture>
 </div>
+
+
 
 ---
   
  
 <div align="left">
- <img src="https://readme-typing-svg.herokuapp.com?&color=fff&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Things+I+work+with+-" alt="Things I work with" />
+     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&color=fff&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Things+I+work+with+-" alt="Things I work with">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?&color=000&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Things+I+work+with+-" alt="Things I work with">
+      <img alt="Theme-aware text" src="https://via.placeholder.com/400x100/FFFFFF/000000?text=Default+Theme+Text">
+    </picture>
 <p align="center">
   <!-- HTML -->
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -70,7 +84,11 @@
 ---
 
 <p align="left">
-   <img src="https://readme-typing-svg.herokuapp.com?&color=fff&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Find+me+around+the+web+🌍!" alt="Find me around the web 🌍!" /> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&color=fff&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Find+me+around+the+web+🌍!" alt="Find me around the web 🌍!">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?&color=000&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Find+me+around+the+web+🌍!" alt="Find me around the web 🌍!">
+      <img alt="Theme-aware text" src="https://via.placeholder.com/400x100/FFFFFF/000000?text=Default+Theme+Text">
+    </picture>
   <!-- LinkedIn -->
  <a href="https://www.linkedin.com/in/nitin-kumar-343b741ab/" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" title="LinkedIn" width="30" height="30" /></a>&nbsp;
   <!-- Gmail -->
@@ -82,6 +100,10 @@
 --- 
 
 <div align="left"> 
-  <img src="https://readme-typing-svg.herokuapp.com?&color=fff&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Visitor+Count" alt="Visitor Count" />
+     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&color=fff&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Visitor's+Count" alt="Visitor's Count">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?&color=000&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Visitor's+Count" alt="Visitor's Count">
+      <img alt="Theme-aware text" src="https://via.placeholder.com/400x100/FFFFFF/000000?text=Default+Theme+Text">
+    </picture>
   <img src="https://profile-counter.glitch.me/KumarNitin19/count.svg" alt="Visitor's Count" />
 </div>
