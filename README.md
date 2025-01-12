@@ -1,7 +1,7 @@
 <div align="left">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&weight=500&duration=1&repeat=false&width=96&lines=Hello+I'm" alt="Hello, I'm">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?&color=000&font=Poppins&weight=500&duration=1&repeat=false&width=96&lines=Hello+I'm" alt="Hello, I'm">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&color=fff&font=Poppins&weight=500&duration=1&repeat=false&width=86&lines=Hello+I'm" alt="Hello, I'm">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?&color=000&font=Poppins&weight=500&duration=1&repeat=false&width=86&lines=Hello+I'm" alt="Hello, I'm">
       <img alt="Theme-aware text" src="https://via.placeholder.com/400x100/FFFFFF/000000?text=Default+Theme+Text">
     </picture> 
      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=4000&pause=500&color=1571e3&width=600&lines=Nitin+Kumar;Software+Engineer" alt="Nitin Kumar" /> 
